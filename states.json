@@ -1,110 +1,110 @@
 [
   {
-    "Sigla": "AC",
-    "Nome": "Acre"
+    "slug": "AC",
+    "name": "Acre"
   },
   {
-    "Sigla": "AL",
-    "Nome": "Alagoas"
+    "slug": "AL",
+    "name": "Alagoas"
   },
   {
-    "Sigla": "AM",
-    "Nome": "Amazonas"
+    "slug": "AM",
+    "name": "Amazonas"
   },
   {
-    "Sigla": "AP",
-    "Nome": "Amapá"
+    "slug": "AP",
+    "name": "Amapá"
   },
   {
-    "Sigla": "BA",
-    "Nome": "Bahia"
+    "slug": "BA",
+    "name": "Bahia"
   },
   {
-    "Sigla": "CE",
-    "Nome": "Ceará"
+    "slug": "CE",
+    "name": "Ceará"
   },
   {
-    "Sigla": "DF",
-    "Nome": "Distrito Federal"
+    "slug": "DF",
+    "name": "Distrito Federal"
   },
   {
-    "Sigla": "ES",
-    "Nome": "Espírito Santo"
+    "slug": "ES",
+    "name": "Espírito Santo"
   },
   {
-    "Sigla": "GO",
-    "Nome": "Goiás"
+    "slug": "GO",
+    "name": "Goiás"
   },
   {
-    "Sigla": "MA",
-    "Nome": "Maranhão"
+    "slug": "MA",
+    "name": "Maranhão"
   },
   {
-    "Sigla": "MG",
-    "Nome": "Minas Gerais"
+    "slug": "MG",
+    "name": "Minas Gerais"
   },
   {
-    "Sigla": "MS",
-    "Nome": "Mato Grosso do Sul"
+    "slug": "MS",
+    "name": "Mato Grosso do Sul"
   },
   {
-    "Sigla": "MT",
-    "Nome": "Mato Grosso"
+    "slug": "MT",
+    "name": "Mato Grosso"
   },
   {
-    "Sigla": "PA",
-    "Nome": "Pará"
+    "slug": "PA",
+    "name": "Pará"
   },
   {
-    "Sigla": "PB",
-    "Nome": "Paraíba"
+    "slug": "PB",
+    "name": "Paraíba"
   },
   {
-    "Sigla": "PE",
-    "Nome": "Pernambuco"
+    "slug": "PE",
+    "name": "Pernambuco"
   },
   {
-    "Sigla": "PI",
-    "Nome": "Piauí"
+    "slug": "PI",
+    "name": "Piauí"
   },
   {
-    "Sigla": "PR",
-    "Nome": "Paraná"
+    "slug": "PR",
+    "name": "Paraná"
   },
   {
-    "Sigla": "RJ",
-    "Nome": "Rio de Janeiro"
+    "slug": "RJ",
+    "name": "Rio de Janeiro"
   },
   {
-    "Sigla": "RN",
-    "Nome": "Rio Grande do Norte"
+    "slug": "RN",
+    "name": "Rio Grande do Norte"
   },
   {
-    "Sigla": "RO",
-    "Nome": "Rondônia"
+    "slug": "RO",
+    "name": "Rondônia"
   },
   {
-    "Sigla": "RR",
-    "Nome": "Roraima"
+    "slug": "RR",
+    "name": "Roraima"
   },
   {
-    "Sigla": "RS",
-    "Nome": "Rio Grande do Sul"
+    "slug": "RS",
+    "name": "Rio Grande do Sul"
   },
   {
-    "Sigla": "SC",
-    "Nome": "Santa Catarina"
+    "slug": "SC",
+    "name": "Santa Catarina"
   },
   {
-    "Sigla": "SE",
-    "Nome": "Sergipe"
+    "slug": "SE",
+    "name": "Sergipe"
   },
   {
-    "Sigla": "SP",
-    "Nome": "São Paulo"
+    "slug": "SP",
+    "name": "São Paulo"
   },
   {
-    "Sigla": "TO",
-    "Nome": "Tocantins"
+    "slug": "TO",
+    "name": "Tocantins"
   }
 ]
